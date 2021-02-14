@@ -1,0 +1,310 @@
+{
+	"Campo": [{
+			"name": "Casa no Campo",
+			"photo": "https://images.pexels.com/photos/5997993/pexels-photo-5997993.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+			"price": 1000,
+			"property_type": "Casa"
+		},
+		{
+			"name": "Chalé no Campo",
+			"photo": "https://images.pexels.com/photos/1327377/pexels-photo-1327377.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+			"price": 1000,
+			"property_type": "Chalé"
+		},
+
+		{
+			"name": "Fazenda Maravilhosa",
+			"photo": "https://images.unsplash.com/photo-1570544820611-2dab6c0871e4?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTA2fHxob3VzZSUyMG1vbnRhaW58ZW58MHx8MHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+			"price": 5000,
+			"property_type": "Casa"
+		},
+
+
+		{
+			"name": "Sitio Espaçoso",
+			"photo": "https://images.unsplash.com/photo-1570544820947-3def000c4d10?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=750&q=80",
+			"price": 3000,
+			"property_type": "Casa"
+		},
+		{
+			"name": "Casa no Campo",
+			"photo": "https://images.pexels.com/photos/5997993/pexels-photo-5997993.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+			"price": 1000,
+			"property_type": "Casa"
+		},
+		{
+			"name": "Chalé no Campo",
+			"photo": "https://images.pexels.com/photos/1327377/pexels-photo-1327377.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+			"price": 1000,
+			"property_type": "Chalé"
+		},
+
+		{
+			"name": "Fazenda Maravilhosa",
+			"photo": "https://images.unsplash.com/photo-1570544820611-2dab6c0871e4?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTA2fHxob3VzZSUyMG1vbnRhaW58ZW58MHx8MHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+			"price": 5000,
+			"property_type": "Casa"
+		},
+
+
+		{
+			"name": "Sitio Espaçoso",
+			"photo": "https://images.unsplash.com/photo-1570544820947-3def000c4d10?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=750&q=80",
+			"price": 3000,
+			"property_type": "Casa"
+		},
+		{
+			"name": "Casa no Campo",
+			"photo": "https://images.pexels.com/photos/5997993/pexels-photo-5997993.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+			"price": 1000,
+			"property_type": "Casa"
+		},
+		{
+			"name": "Chalé no Campo",
+			"photo": "https://images.pexels.com/photos/1327377/pexels-photo-1327377.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+			"price": 1000,
+			"property_type": "Chalé"
+		},
+
+		{
+			"name": "Fazenda Maravilhosa",
+			"photo": "https://images.unsplash.com/photo-1570544820611-2dab6c0871e4?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTA2fHxob3VzZSUyMG1vbnRhaW58ZW58MHx8MHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+			"price": 5000,
+			"property_type": "Casa"
+		},
+
+
+		{
+			"name": "Sitio Espaçoso",
+			"photo": "https://images.unsplash.com/photo-1570544820947-3def000c4d10?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=750&q=80",
+			"price": 3000,
+			"property_type": "Casa"
+		},
+
+		{
+			"name": "Casa no Campo",
+			"photo": "https://images.pexels.com/photos/5997993/pexels-photo-5997993.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+			"price": 1000,
+			"property_type": "Casa"
+		},
+		{
+			"name": "Chalé no Campo",
+			"photo": "https://images.pexels.com/photos/1327377/pexels-photo-1327377.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+			"price": 1000,
+			"property_type": "Chalé"
+		},
+
+		{
+			"name": "Fazenda Maravilhosa",
+			"photo": "https://images.unsplash.com/photo-1570544820611-2dab6c0871e4?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTA2fHxob3VzZSUyMG1vbnRhaW58ZW58MHx8MHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+			"price": 5000,
+			"property_type": "Casa"
+		},
+
+
+		{
+			"name": "Sitio Espaçoso",
+			"photo": "https://images.unsplash.com/photo-1570544820947-3def000c4d10?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=750&q=80",
+			"price": 3000,
+			"property_type": "Casa"
+
+		}
+	],
+
+	"Praia": [{
+			"name": "Casa na Praia",
+			"photo": "https://images.unsplash.com/photo-1517541866997-ea18e32ea9e9?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80",
+			"price": 1000,
+			"property_type": "Casa"
+		},
+		{
+			"name": "Pousada Beira-Mar",
+			"photo": "https://images.unsplash.com/photo-1499793983690-e29da59ef1c2?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80",
+			"price": 1000,
+			"property_type": "Pousada"
+		},
+		{
+			"name": "Casa na Praia",
+			"photo": "https://images.unsplash.com/photo-1597211833712-5e41faa202ea?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=375&q=80",
+			"price": 2000,
+			"property_type": "Casa"
+		},
+		{
+			"name": "Apartamento Praia",
+			"photo": "https://images.unsplash.com/photo-1596692420044-363c12849e8d?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=667&q=80",
+			"price": 1000,
+			"property_type": "Apartamento"
+		},
+
+		{
+			"name": "Casa na Praia",
+			"photo": "https://images.unsplash.com/photo-1517541866997-ea18e32ea9e9?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80",
+			"price": 1000,
+			"property_type": "Casa"
+		},
+		{
+			"name": "Pousada Beira-Mar",
+			"photo": "https://images.unsplash.com/photo-1499793983690-e29da59ef1c2?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80",
+			"price": 1000,
+			"property_type": "Pousada"
+		},
+		{
+			"name": "Casa na Praia",
+			"photo": "https://images.unsplash.com/photo-1597211833712-5e41faa202ea?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=375&q=80",
+			"price": 2000,
+			"property_type": "Casa"
+		},
+		{
+			"name": "Apartamento Praia",
+			"photo": "https://images.unsplash.com/photo-1596692420044-363c12849e8d?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=667&q=80",
+			"price": 1000,
+			"property_type": "Apartamento"
+		},
+		{
+			"name": "Casa na Praia",
+			"photo": "https://images.unsplash.com/photo-1517541866997-ea18e32ea9e9?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80",
+			"price": 1000,
+			"property_type": "Casa"
+		},
+		{
+			"name": "Pousada Beira-Mar",
+			"photo": "https://images.unsplash.com/photo-1499793983690-e29da59ef1c2?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80",
+			"price": 1000,
+			"property_type": "Pousada"
+		},
+		{
+			"name": "Casa na Praia",
+			"photo": "https://images.unsplash.com/photo-1597211833712-5e41faa202ea?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=375&q=80",
+			"price": 2000,
+			"property_type": "Casa"
+		},
+		{
+			"name": "Apartamento Praia",
+			"photo": "https://images.unsplash.com/photo-1596692420044-363c12849e8d?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=667&q=80",
+			"price": 1000,
+			"property_type": "Apartamento"
+		},
+		{
+			"name": "Casa na Praia",
+			"photo": "https://images.unsplash.com/photo-1517541866997-ea18e32ea9e9?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80",
+			"price": 1000,
+			"property_type": "Casa"
+		},
+		{
+			"name": "Pousada Beira-Mar",
+			"photo": "https://images.unsplash.com/photo-1499793983690-e29da59ef1c2?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80",
+			"price": 1000,
+			"property_type": "Pousada"
+		},
+		{
+			"name": "Casa na Praia",
+			"photo": "https://images.unsplash.com/photo-1597211833712-5e41faa202ea?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=375&q=80",
+			"price": 2000,
+			"property_type": "Casa"
+		},
+		{
+			"name": "Apartamento Praia",
+			"photo": "https://images.unsplash.com/photo-1596692420044-363c12849e8d?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=667&q=80",
+			"price": 1000,
+			"property_type": "Apartamento"
+		}
+	    ],
+    "Cidade":[{
+
+            "name":"Duplex Região Nobre",
+            "photo":"https://images.unsplash.com/photo-1502005229762-cf1b2da7c5d6?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDE4fHx8ZW58MHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+            "price":3000,
+            "property_type":"Apartamento Studio"
+        },
+        {
+            "name":"Studio",
+            "photo":"https://images.unsplash.com/photo-1585128792103-0b591f96512e?ixid=MXwxMjA3fDB8MHxzZWFyY2h8NTV8fGFwYXJ0bWVudCUyMHN0dWRpb3xlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+            "price":1000,
+            "property_type":"Pousada"
+        },
+        { 
+            "name":"Apartamento Centro",
+            "photo":"https://images.unsplash.com/photo-1539693010221-cd218dfe6565?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=750&q=80",
+            "price":2000,
+            "property_type":"Apartamento"
+        },
+        {
+            "name":"Apartamento Centro",
+            "photo":"https://images.unsplash.com/photo-1609766857326-18a204c2cf31?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=750&q=80",
+            "price":5000,
+            "property_type":"Apartamento"
+        },
+        {
+            "name":"Duplex Região Nobre",
+            "photo":"https://images.unsplash.com/photo-1502005229762-cf1b2da7c5d6?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDE4fHx8ZW58MHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+            "price":3000,
+            "property_type":"Apartamento Studio"
+        },
+        {
+            "name":"Studio",
+            "photo":"https://images.unsplash.com/photo-1585128792103-0b591f96512e?ixid=MXwxMjA3fDB8MHxzZWFyY2h8NTV8fGFwYXJ0bWVudCUyMHN0dWRpb3xlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+            "price":1000,
+            "property_type":"Pousada"
+        },
+        { 
+            "name":"Apartamento Centro",
+            "photo":"https://images.unsplash.com/photo-1539693010221-cd218dfe6565?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=750&q=80",
+            "price":2000,
+            "property_type":"Apartamento"
+        },
+        {
+            "name":"Apartamento Centro",
+            "photo":"https://images.unsplash.com/photo-1609766857326-18a204c2cf31?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=750&q=80",
+            "price":5000,
+            "property_type":"Apartamento"
+        },
+        {
+            "name":"Duplex Região Nobre",
+            "photo":"https://images.unsplash.com/photo-1502005229762-cf1b2da7c5d6?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDE4fHx8ZW58MHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+            "price":3000,
+            "property_type":"Apartamento Studio"
+        },
+        {
+            "name":"Studio",
+            "photo":"https://images.unsplash.com/photo-1585128792103-0b591f96512e?ixid=MXwxMjA3fDB8MHxzZWFyY2h8NTV8fGFwYXJ0bWVudCUyMHN0dWRpb3xlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+            "price":1000,
+            "property_type":"Pousada"
+        },
+        { 
+            "name":"Apartamento Centro",
+            "photo":"https://images.unsplash.com/photo-1539693010221-cd218dfe6565?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=750&q=80",
+            "price":2000,
+            "property_type":"Apartamento"
+        },
+        {
+            "name":"Apartamento Centro",
+            "photo":"https://images.unsplash.com/photo-1609766857326-18a204c2cf31?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=750&q=80",
+            "price":5000,
+            "property_type":"Apartamento"
+        },
+        {
+            "name":"Duplex Região Nobre",
+            "photo":"https://images.unsplash.com/photo-1502005229762-cf1b2da7c5d6?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDE4fHx8ZW58MHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+            "price":3000,
+            "property_type":"Apartamento Studio"
+        },
+        {
+            "name":"Studio",
+            "photo":"https://images.unsplash.com/photo-1585128792103-0b591f96512e?ixid=MXwxMjA3fDB8MHxzZWFyY2h8NTV8fGFwYXJ0bWVudCUyMHN0dWRpb3xlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+            "price":1000,
+            "property_type":"Pousada"
+        },
+        { 
+            "name":"Apartamento Centro",
+            "photo":"https://images.unsplash.com/photo-1539693010221-cd218dfe6565?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=750&q=80",
+            "price":2000,
+            "property_type":"Apartamento"
+        },
+        {
+            "name":"Apartamento Centro",
+            "photo":"https://images.unsplash.com/photo-1609766857326-18a204c2cf31?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=750&q=80",
+            "price":5000,
+            "property_type":"Apartamento"
+        }]
+
+}
